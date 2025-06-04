@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ithbit",
+            "request": "launch",
+            "mainClass": "ithbit",
+            "projectName": "java-projects_bf5f8b78"
+        },
+        {
+            "type": "java",
+            "name": "bit1",
+            "request": "launch",
+            "mainClass": "bit1",
+            "projectName": "java-projects_bf5f8b78"
+        },
+        {
+            "type": "java",
             "name": "palindrome",
             "request": "launch",
             "mainClass": "strings.palindrome",
