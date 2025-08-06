@@ -32,6 +32,7 @@ public class multiplearr {
     {
         Scanner sc = new Scanner (System.in);
         System.out.println("Eneter the number of rows");
+        
         int r = sc.nextInt();
         
         System.out.println("enter the collum number ");

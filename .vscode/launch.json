@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "class3",
+            "request": "launch",
+            "mainClass": "recursion.class3",
+            "projectName": "java-projects_bf5f8b78"
+        },
+        {
+            "type": "java",
+            "name": "class2",
+            "request": "launch",
+            "mainClass": "recursion.class2",
+            "projectName": "java-projects_bf5f8b78"
+        },
+        {
+            "type": "java",
+            "name": "class1",
+            "request": "launch",
+            "mainClass": "recursion.class1",
+            "projectName": "java-projects_bf5f8b78"
+        },
+        {
+            "type": "java",
             "name": "ithbit",
             "request": "launch",
             "mainClass": "ithbit",
