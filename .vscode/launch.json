@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CircleTester",
+            "request": "launch",
+            "mainClass": "encapsulation.CircleTester",
+            "projectName": "java-projects_bf5f8b78"
+        },
+        {
+            "type": "java",
+            "name": "task1",
+            "request": "launch",
+            "mainClass": "encapsulation.task1",
+            "projectName": "java-projects_bf5f8b78"
+        },
+        {
+            "type": "java",
+            "name": "d1",
+            "request": "launch",
+            "mainClass": "encapsulation.d1",
+            "projectName": "java-projects_bf5f8b78"
+        },
+        {
+            "type": "java",
             "name": "class3",
             "request": "launch",
             "mainClass": "recursion.class3",
