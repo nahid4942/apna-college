@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "lecture1",
+            "request": "launch",
+            "mainClass": "week1.lecture1",
+            "projectName": "java-projects_bf5f8b78"
+        },
+        {
+            "type": "java",
+            "name": "lecture",
+            "request": "launch",
+            "mainClass": "week1.lecture",
+            "projectName": "java-projects_bf5f8b78"
+        },
+        {
+            "type": "java",
+            "name": "driver",
+            "request": "launch",
+            "mainClass": "encapsulation.driver",
+            "projectName": "java-projects_bf5f8b78"
+        },
+        {
+            "type": "java",
             "name": "CircleTester",
             "request": "launch",
             "mainClass": "encapsulation.CircleTester",
