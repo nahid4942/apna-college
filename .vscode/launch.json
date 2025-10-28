@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "class1",
+            "request": "launch",
+            "mainClass": "linkedlist.class1",
+            "projectName": "java-projects_bf5f8b78"
+        },
+        {
+            "type": "java",
+            "name": "basicsorting",
+            "request": "launch",
+            "mainClass": "sorting.basicsorting",
+            "projectName": "java-projects_bf5f8b78"
+        },
+        {
+            "type": "java",
+            "name": "cls1",
+            "request": "launch",
+            "mainClass": "linkedlist.cls1",
+            "projectName": "java-projects_bf5f8b78"
+        },
+        {
+            "type": "java",
             "name": "lecture1",
             "request": "launch",
             "mainClass": "week1.lecture1",

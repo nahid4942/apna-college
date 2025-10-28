@@ -7,21 +7,25 @@ public class lecture1 {
     {
 
         ArrayList<Integer> list = new ArrayList<>();
-        list.add(4);
-        list.add(4);
-        list.add(4);
-        list.add(8);
-        list.add(4);
-        list.add(9);
+       // list.add(4);
+       // list.add(4);
+        //list.add(4);
+       // list.add(8);
+        //list.add(4);
+        //list.add(9);
 
-       
+       // for(int num :list){
+           //  System.out.println(num);
+        //};
 
-        for(int num :list){
-             System.out.println(num);
-        };
+       //  System.out.println(list);
+       //  System.out.println(list.get(4));
 
-         System.out.println(list);
-         System.out.println(list.get(4));
+       //  swap(list,0,4)
+
+
+
+         
 
         
 
@@ -29,5 +33,9 @@ public class lecture1 {
 
 
     }
-    
+    public  void swap(int[]arr,int i ,int j ){
+        int temp =;
+    };
 }
+
+
